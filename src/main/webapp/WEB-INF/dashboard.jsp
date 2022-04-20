@@ -38,7 +38,7 @@
 			<div id="wg-api-football-livescore"
     			data-host="v3.football.api-sports.io"
     			data-refresh="0"
-    			data-key="ab962ddaed367cbc25b0914419164e3e"
+    			data-key="API_KEY_HERE"
     			data-theme="false"
     			data-show-errors="false"
     			class="api_football_loader">
